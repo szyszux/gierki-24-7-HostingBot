@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gierkiSMP.aternos.me:18378",
+    "ip": "gierkiSMP.aternos.me",
     "port": 18378,
     "version": "",
     "try-creative": false
